@@ -144,7 +144,7 @@ export const Navbar: React.FC<NavbarProps> = ({ engine, state, onOpenKeyModal })
           </button>
 
           <a
-            href="https://github.com"
+            href="https://github.com/nisarg-t/nexus-agent-studio"
             target="_blank"
             rel="noreferrer"
             className="flex items-center gap-1.5 text-xs text-slate-300 hover:text-white bg-cyber-800/70 border border-cyber-600 px-2.5 py-1.5 rounded-lg transition"

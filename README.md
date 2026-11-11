@@ -61,7 +61,7 @@ Nexus AgentStudio is a high-performance orchestration workspace designed to coor
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/your-username/nexus-agent-studio.git
+git clone https://github.com/nisarg-t/nexus-agent-studio.git
 cd nexus-agent-studio
 npm install
 ```
